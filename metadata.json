@@ -1,0 +1,6 @@
+{
+  "name": "Desafio do Cofre",
+  "description": "Um aplicativo premium, sofisticado e responsivo para organizar e completar desafios de economia financeira com metas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
